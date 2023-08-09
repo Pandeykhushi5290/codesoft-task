@@ -12,7 +12,7 @@ body{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    background:url('/static/background.jpg');
+    background:#eae7dc;
     background-repeat: no-repeat;
 }
  body h1{
